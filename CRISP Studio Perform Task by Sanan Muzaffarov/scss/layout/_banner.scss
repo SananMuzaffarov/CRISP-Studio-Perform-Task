@@ -1,0 +1,25 @@
+.banner {
+    position: absolute;
+    display: flex;
+    width: 100%;
+    height: 112px;
+    margin: 1140px 0 0 0;
+    background-color: #e0ff04;
+
+    .bannerText {
+        position: relative;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        left: 36%;
+
+        h2 {
+            font-family: "Work", sans-serif;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 22px;
+            line-height: 16px;
+            letter-spacing: 0.2em;
+         }
+     }
+ }

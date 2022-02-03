@@ -1,0 +1,38 @@
+.bestSeller {
+   position: absolute;
+   display: flex;
+   margin: 3010px 0 0 0;
+
+   .firstBestLine {
+      height: 5px;
+      width: 650px;
+      left: 0px;
+      border-radius: 0px;
+      background: #e0ff04;
+   }
+
+   .bestP {
+      position: relative;
+      display: flex;
+      margin: -10px 0 0 20px;
+
+      p {
+         font-family: "Work", sans-serif;
+         font-style: normal;
+         font-weight: normal;
+         font-size: 22px;
+         line-height: 26px;
+         letter-spacing: 0.07em;
+         color: #000000;
+      }
+   }
+
+   .secondBestLine {
+      position: absolute;
+      margin-left: 850px;
+      height: 5px;
+      width: 668px;
+      border-radius: 0px;
+      background: #e0ff04;
+   }
+}

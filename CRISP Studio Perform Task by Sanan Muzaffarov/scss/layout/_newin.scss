@@ -1,0 +1,39 @@
+.newIn {
+   position: absolute;
+   display: flex;
+   margin: 1374px 0 0 0;
+
+   .firstLine {
+      height: 5px;
+      width: 700px;
+      left: 0px;
+      border-radius: 0px;
+      background: #e0ff04;
+   }
+
+   .lineP {
+      position: relative;
+      display: flex;
+      margin: -10px 0 0 20px;
+
+      p {
+         font-family: "Work", sans-serif;
+         font-style: normal;
+         font-weight: normal;
+         font-size: 22px;
+         line-height: 26px;
+         letter-spacing: 0.07em;
+         color: #000000;
+      }
+   }
+
+   .secondLine {
+      position: absolute;
+      display: flex;
+      margin-left: 825px;
+      height: 5px;
+      width: 694px;
+      border-radius: 0px;
+      background: #e0ff04;
+   }
+}

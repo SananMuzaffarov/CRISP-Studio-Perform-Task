@@ -1,0 +1,168 @@
+.photos {
+   position: absolute;
+   display: flex;
+   margin: 3550px 0 0 0;
+   width: 100%;
+   height: 675px;
+   background-color: #ffffff;
+
+   .firstPhotoRow {
+      position: absolute;
+      display: flex;
+      margin: 40px 0 0 100px;
+
+      .photo1 {
+         position: absolute;
+         display: flex;
+         width: 250px;
+         height: 250px;
+
+         img {
+            width: 250px;
+            height: 250px;
+         }
+      }
+
+      .photo2 {
+         position: absolute;
+         display: flex;
+         margin-left: 270px;
+         width: 250px;
+         height: 250px;
+
+         img {
+            width: 250px;
+            height: 250px;
+         }
+      }
+
+      .photo3 {
+         position: absolute;
+         display: flex;
+         margin-left: 540px;
+         width: 250px;
+         height: 250px;
+
+         img {
+            width: 250px;
+            height: 250px;
+         }
+      }
+
+      .photo4 {
+         position: absolute;
+         display: flex;
+         margin-left: 810px;
+         width: 250px;
+         height: 250px;
+
+         img {
+            width: 250px;
+            height: 250px;
+         }
+      }
+
+      .photo5 {
+         position: absolute;
+         display: flex;
+         margin-left: 1080px;
+         width: 250px;
+         height: 250px;
+
+         img {
+            width: 250px;
+            height: 250px;
+         }
+      }
+   }
+
+   .tagKoiski {
+      position: relative;
+      display: flex;
+      text-align: center;
+      align-items: center;
+      margin: 285px 0 0 610px;
+      width: 306px;
+      height: 68px;
+      background-color: #e0ff04;
+
+      h1 {
+         margin: 5px 0 0 60px;
+         font-family: "Work", sans-serif;
+         font-style: normal;
+         font-weight: normal;
+         font-size: 47px;
+         line-height: 55px;
+         color: #000000;
+      }
+   }
+
+   .secondPhotoRow {
+      position: absolute;
+      display: flex;
+      margin: 350px 0 0 100px;
+
+      .photo6 {
+         position: absolute;
+         display: flex;
+         width: 250px;
+         height: 250px;
+
+         img {
+            width: 250px;
+            height: 250px;
+         }
+      }
+
+      .photo7 {
+         position: absolute;
+         display: flex;
+         margin-left: 270px;
+         width: 250px;
+         height: 250px;
+
+         img {
+            width: 250px;
+            height: 250px;
+         }
+      }
+
+      .photo8 {
+         position: relative;
+         margin-left: 540px;
+         width: 250px;
+         height: 250px;
+
+         img {
+            width: 250px;
+            height: 250px;
+         }
+      }
+
+      .photo9 {
+         position: absolute;
+         display: flex;
+         margin-left: 810px;
+         width: 250px;
+         height: 250px;
+
+         img {
+            width: 250px;
+            height: 250px;
+         }
+      }
+
+      .photo10 {
+         position: absolute;
+         display: flex;
+         margin-left: 1080px;
+         width: 250px;
+         height: 250px;
+
+         img {
+            width: 250px;
+            height: 250px;
+         }
+      }
+   }
+}

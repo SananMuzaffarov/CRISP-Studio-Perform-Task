@@ -1,0 +1,98 @@
+.brands {
+   position: absolute;
+   display: flex;
+   margin: 1900px 0 0 0;
+   background-color: rgb(255, 255, 255);
+   width: 100%;
+   height: 1075px;
+}
+.firstRow {
+   position: absolute;
+   display: flex;
+   margin: 80px 0 0 100px;
+}
+.firstBrand {
+   position: absolute;
+   display: flex;
+   width: 440px;
+   height: 440px;
+}
+.firstRow img {
+   width: 440px;
+   height: 440px;
+}
+
+.brandText {
+   position: absolute;
+   display: inline-block;
+   top: 40%;
+   left: 20%;
+   align-items: center;
+   text-align: center;
+}
+.brandText h1 {
+   font-family: "Work", sans-serif;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 40px;
+   line-height: 59px;
+   color: #ffffff;
+}
+.brandText button {
+   text-decoration: none;
+   color: rgb(255, 255, 255);
+   font-size: 16px;
+   line-height: 19px;
+   font-weight: normal;
+   border: transparent;
+   background-color: transparent;
+   border-bottom: 2px solid #e0ff04;
+}
+.brandText button span i {
+   font-size: 12px;
+   margin-left: 10px;
+   color: #ffffff;
+}
+.secondBrand {
+   position: absolute;
+   display: flex;
+   margin: 0 0 0 450px;
+   width: 440px;
+   height: 440px;
+}
+.thirdBrand {
+   position: absolute;
+   display: flex;
+   margin: 0 0 0 900px;
+   width: 440px;
+   height: 440px;
+}
+.secondRow {
+   position: absolute;
+   display: flex;
+   margin: 550px 0 0 100px;
+}
+.secondRow img {
+   width: 440px;
+   height: 440px;
+}
+.fourthBrand {
+   position: absolute;
+   display: flex;
+   width: 440px;
+   height: 440px;
+}
+.fifthBrand {
+   position: absolute;
+   display: flex;
+   margin: 0 0 0 450px;
+   width: 440px;
+   height: 440px;
+}
+.sixthBrand {
+   position: absolute;
+   display: flex;
+   margin: 0 0 0 900px;
+   width: 440px;
+   height: 440px;
+}
